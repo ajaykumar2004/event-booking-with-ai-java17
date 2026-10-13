@@ -9,8 +9,7 @@ This project is a clone of the popular online movie ticket booking platform, Boo
 
 ## How to Use
 * **Clone the Repository:** Clone the project repository to your local machine.
-```console 
-git clone https://github.com/iTzTalha/bookmyshow.git
+```console
 ```
 * **Database Setup:** Configure the MySQL database settings in the 'application.properties' file.
 * **Build and Run:** Use Maven to build and run the Spring Boot application.
