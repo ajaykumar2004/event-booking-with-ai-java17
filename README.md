@@ -19,8 +19,3 @@ mvn spring-boot:run
 * **Access the API:** The backend API endpoints can be accessed through tools like Postman or by integrating them into your frontend application.
 * **Explore and Integrate:** Utilize the API endpoints to manage your application's movies, theatres, and bookings.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository, make changes, and submit a pull request.
-
-## Show Your Support
-Give a ⭐️ if you like this project!
